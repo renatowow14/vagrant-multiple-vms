@@ -1,0 +1,23 @@
+- name: servera.lab
+  hostname: servera
+  box: centos/8
+  ram: 256
+  ip: 10.0.0.1
+
+- name: serverb.lab
+  hostname: serverb
+  box: centos/8
+  ram: 256
+  ip: 10.0.0.2
+
+- name: serverc.lab
+  hostname: serverc
+  box: centos/8
+  ram: 256
+  ip: 10.0.0.3
+
+- name: serverd.lab
+  hostname: serverd 
+  box: centos/8
+  ram: 256
+  ip: 10.0.0.4
