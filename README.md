@@ -1,4 +1,4 @@
-# Multiple VMs with Vagrant and VMS Management with Ansible
+# Multiple VMs with Vagrant
 
 This is a simple yet flexible Vagrantfile that parses a .yml file (servers.yml) in this example, where you should be able to pass the following:
 
@@ -13,6 +13,9 @@ This is a simple yet flexible Vagrantfile that parses a .yml file (servers.yml) 
 **credits to [Scott](http://blog.scottlowe.org/2014/10/22/multi-machine-vagrant-with-yaml/) where I 'hacked' the code from.**
 
 **credits to [Benjamin Kane](https://www.bbkane.com/blog/an-isolated-and-reproducible-ansible-and-vagrant-setup/) where I 'hacked' the code from.**
+
+**credits to [Heitor Lessa](https://github.com/heitorlessa/vagrant-multiple-vms) where I 'hacked' the code from.**
+
 
 ### Installation
 
