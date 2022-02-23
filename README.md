@@ -1,4 +1,4 @@
-# Multiple VMs with Vagrant
+# Multiple VMs with Vagrant and Ansible Management
 
 This is a simple yet flexible Vagrantfile that parses a .yml file (servers.yml) in this example, where you should be able to pass the following:
 
