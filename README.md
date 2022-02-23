@@ -122,6 +122,11 @@ serverb.lab | SUCCESS => {
 }
 ```
 
+### Install Package Example on Hosts
+
+```
+ansible-playbook -v install_package.yaml
+```
 ### Development
 
 Can't find Chef or Puppet or another particular option (Port forward)?? Great! 

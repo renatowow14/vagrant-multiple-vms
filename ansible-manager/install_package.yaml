@@ -1,0 +1,8 @@
+---
+- hosts: all
+  gather_facts: no
+  tasks:
+    - name: Install httpd package Example
+      yum:
+        name: httpd
+        state: present
