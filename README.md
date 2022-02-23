@@ -130,6 +130,15 @@ Warning: Inside the ansible-manager folder, run
 ```
 ansible-playbook -v install_package.yaml
 ```
+
+### Uninstalling all of this
+
+```
+chmod +x destroy-all-vms.sh
+./destroy-all-vms.sh
+```
+Warning: You will be asked to destroy the VMs, you will have to accept
+
 ### Development
 
 Can't find Chef or Puppet or another particular option (Port forward)?? Great! 
