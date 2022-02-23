@@ -124,6 +124,8 @@ serverb.lab | SUCCESS => {
 
 ### Install Package Example on Hosts
 
+Let's install apache2 http-server on all VMs as an example:
+
 ```
 ansible-playbook -v install_package.yaml
 ```
